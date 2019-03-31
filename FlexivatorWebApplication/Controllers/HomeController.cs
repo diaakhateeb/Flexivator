@@ -8,7 +8,6 @@ using FlexivatorWebApplication.Models;
 
 namespace FlexivatorWebApplication.Controllers
 {
-    //constructor
     public class HomeController : Controller
     {
         public IActionResult Index()
