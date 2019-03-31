@@ -10,4 +10,4 @@ jobs:
           command: dotnet restore src/
       - run:
           name: Build solution
-          command: dotnet build src/
+command: dotnet build src/
