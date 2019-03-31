@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlexivatorWebApplication", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".circleci", ".circleci", "{6A181806-8C15-40B5-A6E8-5E86283D2071}"
 	ProjectSection(SolutionItems) = preProject
-		FlexivatorWebApplication\.circleci\config.yml = FlexivatorWebApplication\.circleci\config.yml
+		config.yml = config.yml
 	EndProjectSection
 EndProject
 Global
