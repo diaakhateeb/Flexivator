@@ -7,11 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Flexivator", "Flexivator", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlexivatorWebApplication", "FlexivatorWebApplication\FlexivatorWebApplication.csproj", "{31F650C8-C57F-4172-8294-D947EB3A7708}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".circleci", ".circleci", "{09B1E009-7F86-421A-9FF3-E12D3108AB79}"
-	ProjectSection(SolutionItems) = preProject
-		config.yml = config.yml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,7 +23,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{31F650C8-C57F-4172-8294-D947EB3A7708} = {67A7A98F-48B0-4148-90F2-436A35902294}
-		{09B1E009-7F86-421A-9FF3-E12D3108AB79} = {67A7A98F-48B0-4148-90F2-436A35902294}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2B1D4CF-985E-4139-9584-39A23C6C020D}
